@@ -7,6 +7,7 @@ Sheets:
 - Selective Hashtag Generator
     Skip through the set of hashtags and add the one you like to the list. Copy and Paste them to where ever you need them.
     Macros have to be active in order to work properly.
+    
     ![f5a704d6-557f-4f0d-9df5-a5baa96b0e84](https://user-images.githubusercontent.com/106700281/171612904-31b79e97-ce85-4748-861f-007e0a0a3cbc.jpg)
 
 - Bulk Hashtag Generator
@@ -14,6 +15,7 @@ Sheets:
     You can finetune the generated list afterwards if you like.
     The orange-coloured hashtags are in the list >2 times.
     Works without Macros: "Reload Hashtags" -> Ctrl + R / "Copy Hashtags" -> Ctrl + C (after selecting Cell B35)
+    
     ![c6db933c-3b44-470d-a1b9-56afd0058b07](https://user-images.githubusercontent.com/106700281/171612443-3fe52cfd-d568-4ee1-ba7d-8cc2ada797eb.jpg)
 
 
