@@ -23,4 +23,5 @@ Sheets:
     
     
     Note: After going through the sets and deleting hashtags you dont like, select the column and press _Data_ > _Remove Dublicates_. This is going to remove the empty cells in between.
+    
     ![Bildschirmfoto 2022-06-02 um 12 38 49](https://user-images.githubusercontent.com/106700281/171612122-94bafce3-03b7-4446-8304-d1dfe87148bf.jpg)
