@@ -5,12 +5,14 @@ This is a simple Instagram hashtag generator made with Excel and VBA. Nothing fa
 Sheets:
 
 - Selective Hashtag Generator
+
     Skip through the set of hashtags and add the one you like to the list. Copy and Paste them to where ever you need them.
     Macros have to be active in order to work properly.
     
     ![f5a704d6-557f-4f0d-9df5-a5baa96b0e84](https://user-images.githubusercontent.com/106700281/171612904-31b79e97-ce85-4748-861f-007e0a0a3cbc.jpg)
 
 - Bulk Hashtag Generator
+
     After clicking the button "Reload Hashtags" a list of 30 random Hashtags will be generated for you. Do this until you like most of the hashtags.
     You can finetune the generated list afterwards if you like.
     The orange-coloured hashtags are in the list >2 times.
@@ -20,6 +22,7 @@ Sheets:
 
 
 - Bulk Hashtag Generator
+
     Column "Hashtags" is used in Sheet "Bulk Generator"
     Column "Hashtags-for-Selective" is used in Sheet "Selective Generator"
     
