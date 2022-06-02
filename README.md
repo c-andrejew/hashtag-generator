@@ -25,7 +25,7 @@ Sheets:
     ![c6db933c-3b44-470d-a1b9-56afd0058b07](https://user-images.githubusercontent.com/106700281/171612443-3fe52cfd-d568-4ee1-ba7d-8cc2ada797eb.jpg)
 
 
-- Bulk Hashtag Generator
+- Set of Hashtags
 
     Column "Hashtags" is used in Sheet "Bulk Generator"
     Column "Hashtags-for-Selective" is used in Sheet "Selective Generator"
