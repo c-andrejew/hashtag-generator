@@ -15,7 +15,7 @@ Sheets:
 
     After clicking the button "Reload Hashtags" a list of 30 random Hashtags will be generated for you. Do this until you like most of the hashtags.
     You can finetune the generated list afterwards if you like.
-    The orange-coloured hashtags are in the list >2 times.
+    Hashtags generated more than once are coloured orange.
     Works without Macros:
     
     "Reload Hashtags" -> Ctrl + R
